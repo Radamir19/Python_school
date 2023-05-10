@@ -110,6 +110,6 @@
 #         return 1
 #     return resolve(x - 1, y) + resolve((x % 2), y)
 #
-# print(resolve(30, 12) * resolve(12, 1))
+# print(resolve(30, 12) * resolve(12, 1)).
 
 
