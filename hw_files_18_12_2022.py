@@ -42,3 +42,4 @@ for i in range(len(a) - 1):
     if (x % s2 == 0) ^ (y % s2 == 0):
         couples_list.append(x + y)
 print(len(couples_list))
+
